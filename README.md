@@ -6,3 +6,4 @@ Technical Analyst and IT operations roles.
 
 ## Labs
 - **threat-feed-lab** — Python-based ETL workflow for ingesting and normalizing a public threat-intelligence feed.
+➡️ https://github.com/JennyCloud/threat-feed-lab
