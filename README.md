@@ -7,3 +7,6 @@ Technical Analyst and IT operations roles.
 ## Labs
 - **threat-feed-lab** — Python-based ETL workflow for ingesting and normalizing a public threat-intelligence feed.
 ➡️ https://github.com/JennyCloud/threat-feed-lab
+
+- **fintech-ops-sql-lab** — SQLite-based financial integrity audit for detecting and normalizing transactional anomalies in a dealer lending environment.
+➡️ https://github.com/JennyCloud/fintech-ops-sql-lab
