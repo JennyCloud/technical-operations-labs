@@ -18,3 +18,12 @@ A library of small, practical labs and exercises built to keep my technical skil
 **Focus:** Automation, Infrastructure Health, PowerShell
 - Automated "Self-Healing" monitor designed to detect and recover failed Windows services with integrated audit logging.
 - Demonstrates defensive scripting using Try/Catch blocks and automated incident documentation for operational transparency.
+
+---
+
+## 📖 Operational Documentation & Strategy
+
+### [Fintech Platform Operations Runbook](https://github.com/JennyCloud/fintech-platform-operations-runbook)
+**Focus:** Mission-Critical Application Support & Proactive Product Operations
+- A comprehensive technical framework for managing and troubleshooting a high-availability, multi-tenant SaaS platform.
+- Designed to ensure data integrity, protect contractual SLAs (99.9% uptime), and shift from reactive support to proactive observability.
