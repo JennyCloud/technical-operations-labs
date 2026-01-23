@@ -3,6 +3,10 @@
 A library of small, practical labs and exercises built to keep my technical skills up-to-date and practice for modern industry requirements.
 
 ## 🚀 Automated Operational Logic
+### [ERP Data Integrity & Audit](https://github.com/JennyCloud/erp-data-integrity-audit)
+**Focus:** Supply Chain Accuracy, SQL Auditing, ERP Data Hygiene
+- A comprehensive SQL-driven audit designed to identify and resolve discrepancies in raw vendor inventory data before ERP ingestion.
+- Demonstrates automated SKU standardization, currency normalization (USD/CAD), and "3-Way Match" verification logic for mission-critical hardware environments.
 
 ### [Threat Intelligence ETL Workflow](https://github.com/JennyCloud/threat-feed-lab)
 **Focus:** Cybersecurity, Python, Data Normalization
