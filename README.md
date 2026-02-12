@@ -9,6 +9,11 @@ A library of small, practical labs and exercises built to keep my technical skil
 - Python-based ETL workflow for ingesting and normalizing public threat-intelligence feeds into structured formats.
 - Demonstrates API integration, data cleaning, and operationalizing security data for automated analysis.
 
+### [PowerShell Self-Healing Monitor](https://github.com/JennyCloud/powershell-self-healing-monitor)
+**Focus:** Automation, Infrastructure Health, PowerShell
+- Automated "Self-Healing" monitor designed to detect and recover failed Windows services with integrated audit logging.
+- Demonstrates defensive scripting using Try/Catch blocks and automated incident documentation for operational transparency.
+
 ### [SQL Financial Integrity Audit](https://github.com/JennyCloud/fintech-ops-sql-lab)
 **Focus:** Data Integrity, SQLite, Anomaly Detection
 - Automated detection of invalid financial transactions in a dealer lending environment.
@@ -18,12 +23,6 @@ A library of small, practical labs and exercises built to keep my technical skil
 **Focus:** Supply Chain Accuracy, SQL Auditing, ERP Data Hygiene
 - A comprehensive SQL-driven audit designed to identify and resolve discrepancies in raw vendor inventory data before ERP ingestion.
 - Demonstrates automated SKU standardization, currency normalization (USD/CAD), and "3-Way Match" verification logic for mission-critical hardware environments.
-
-### [PowerShell Self-Healing Monitor](https://github.com/JennyCloud/powershell-self-healing-monitor)
-**Focus:** Automation, Infrastructure Health, PowerShell
-- Automated "Self-Healing" monitor designed to detect and recover failed Windows services with integrated audit logging.
-- Demonstrates defensive scripting using Try/Catch blocks and automated incident documentation for operational transparency.
-
 ---
 
 ## 📖 Operational Documentation & Strategy
